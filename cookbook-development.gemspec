@@ -28,7 +28,6 @@ Gem::Specification.new do |spec|
   spec.add_dependency 'rake'
   spec.add_dependency 'test-kitchen'
   spec.add_dependency 'version'
-  spec.add_dependency 'thor-scmversion'
   spec.add_dependency 'kitchen-docker'
   spec.add_dependency 'semverse'
   spec.add_dependency 'ridley'
